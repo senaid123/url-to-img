@@ -7,7 +7,9 @@ This npm package provides functions for uploading images to a specified server. 
 
 ## Usage
 
+```js
 bulkImageUpload(imageArray, token, link, fileFieldName)
+```
 
 This function uploads multiple images in a bulk fashion. It takes an array of image URLs (imageArray), an authentication token (token), the server URL (link), and a field name for the file (fileFieldName).
 The images are uploaded as FormData in a single POST request.
@@ -32,7 +34,9 @@ bulkImageUpload(imageArray, token, link, fileFieldName)
 ```
 
 ###
+```js
 uploadImages(imageArray, token, link, fileFieldName)
+```
 
 This function uploads multiple images individually. It takes an array of image URLs (imageArray), an authentication token (token), the server URL (link),
 and a field name for the file (fileFieldName). Each image is uploaded separately using a POST request.
@@ -57,7 +61,11 @@ uploadImages(imageArray, token, link, fileFieldName)
 ```
 
 ###
+
+```js
 uploadImage(imageUrl, token, link, fileFieldName)
+```
+
 This function uploads a single image. It takes an image URL (imageUrl), an authentication token (token), the server URL (link), and a field name for the file (fileFieldName). The image is uploaded using a POST request.
 
 ### Example:
