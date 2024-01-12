@@ -1,0 +1,24 @@
+{
+  "name": "url-to-img",
+  "version": "1.0.1",
+  "description": "transform img urls into formdata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senaid123/url-to-img.git"
+  },
+  "keywords": [
+    "url",
+    "to",
+    "img"
+  ],
+  "author": "senaid123 Senaid Karauzovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/senaid123/url-to-img/issues"
+  },
+  "homepage": "https://github.com/senaid123/url-to-img#readme"
+}
