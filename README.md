@@ -63,7 +63,7 @@ This function uploads a single image. It takes an image URL (imageUrl), an authe
 ### Example:
 
 ```js
-const { uploadImage } = require('image-upload-package');
+const { uploadImage } = require('url-to-img');
 
 const imageUrl = 'http://example.com/image.jpg';
 const token = 'yourAuthToken';
