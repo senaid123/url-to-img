@@ -3,7 +3,7 @@ This npm package provides functions for uploading images to a specified server. 
 ## Installation
 
 
-### npm install image-upload-package
+### npm install url-to-img
 
 ## Usage
 
