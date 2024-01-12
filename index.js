@@ -26,6 +26,7 @@ export const uploadImages = async (imageArray, id) => {
           {
             method: 'POST',
             headers: {
+                
               Authorization: token,
             },
             body: formData,
