@@ -1,6 +1,6 @@
 {
   "name": "url-to-img",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "transform img urls into formdata",
   "main": "index.js",
   "scripts": {
