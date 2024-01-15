@@ -2,8 +2,9 @@ This npm package provides functions for uploading images to a specified server. 
 
 ## Installation
 
-
-### npm install url-to-img
+```bash
+npm install url-to-img
+```
 
 ## Usage
 
